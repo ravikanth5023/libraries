@@ -6,4 +6,9 @@ def newMaven()
 {
   sh 'mvn package'
 }
+def newDeploy(ip,appname,context)
+{
+  
+}
+
 
